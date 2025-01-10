@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti\\livraria.domain\\abstractions\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\abstractions\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti\\livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti\\livraria.domain\\enums\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\enums\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti\\livraria.domain\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti\\livraria.domain\\livraria.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE849596-6466-42EB-9B1C-10462B451511}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\livraria.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "RelativeToolTip": "Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:44:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editora.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Enums\\Editora.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Enums\\Editora.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Enums\\Editora.cs",
+              "RelativeToolTip": "Livraria.Domain\\Enums\\Editora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:41:05.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Enums\\Categoria.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Enums\\Categoria.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Enums\\Categoria.cs",
+              "RelativeToolTip": "Livraria.Domain\\Enums\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:40:51.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Entities\\Livro.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Entities\\Livro.cs",
+              "RelativeToolTip": "Livraria.Domain\\Entities\\Livro.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:45:18.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livraria.Domain.csproj",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Livraria.Domain.csproj",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Livraria.Domain.csproj",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti\\Livraria.Domain\\Livraria.Domain.csproj",
+              "RelativeToolTip": "Livraria.Domain\\Livraria.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T22:33:03.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
