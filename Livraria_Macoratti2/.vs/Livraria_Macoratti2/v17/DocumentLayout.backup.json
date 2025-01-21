@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|solutionrelative:livraria.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D02F016-3322-44C6-88CC-131B6B3EFFE8}|Livraria.CrossCutting\\Livraria.CrossCutting.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.crosscutting\\dependenciesapp\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D02F016-3322-44C6-88CC-131B6B3EFFE8}|Livraria.CrossCutting\\Livraria.CrossCutting.csproj|solutionrelative:livraria.crosscutting\\dependenciesapp\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|solutionrelative:livraria.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|solutionrelative:livraria.infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C741872-18FB-4B3F-A8A8-E4BF91F842EA}|Livraria.Blazor\\Livraria.Blazor.csproj|solutionrelative:livraria.blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.infrastructure\\entitiesconfiguration\\livrariaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|solutionrelative:livraria.infrastructure\\entitiesconfiguration\\livrariaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC86DA34-588E-4947-82C7-5C27AB64CCCB}|Livraria.Infrastructure\\Livraria.Infrastructure.csproj|solutionrelative:livraria.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.domain\\abstractions\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\abstractions\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.domain\\enums\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\enums\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|d:\\estudos\\.net\\blazor\\livraria_macoratti2\\livraria.domain\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AD3833-0DEE-456D-96FD-44729D83051C}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "Livraria.Blazor\\Program.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\Program.cs",
+              "RelativeToolTip": "Livraria.Blazor\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:11:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "Livraria.Blazor\\appsettings.json",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\appsettings.json",
+              "RelativeToolTip": "Livraria.Blazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T23:09:41.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Livraria.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "RelativeToolTip": "Livraria.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:04:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Livraria.Blazor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Livraria.Blazor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T21:09:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Livraria.Infrastructure\\Repositories\\LivroRepository.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "Livraria.Infrastructure\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:57:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivrariaConfiguration.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "RelativeDocumentMoniker": "Livraria.Infrastructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "RelativeToolTip": "Livraria.Infrastructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:56:04.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Livraria.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Livraria.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:50:41.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "RelativeToolTip": "Livraria.Domain\\Abstractions\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:33:40.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Editora.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Enums\\Editora.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Enums\\Editora.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Enums\\Editora.cs",
+              "RelativeToolTip": "Livraria.Domain\\Enums\\Editora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:31:25.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Enums\\Categoria.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Enums\\Categoria.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Enums\\Categoria.cs",
+              "RelativeToolTip": "Livraria.Domain\\Enums\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:30:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "Livraria.Domain\\Entities\\Livro.cs",
+              "ToolTip": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Domain\\Entities\\Livro.cs",
+              "RelativeToolTip": "Livraria.Domain\\Entities\\Livro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:25:57.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
