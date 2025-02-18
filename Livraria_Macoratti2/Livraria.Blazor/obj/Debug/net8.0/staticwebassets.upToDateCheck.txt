@@ -2,3 +2,15 @@ wwwroot\app.css
 wwwroot\bootstrap\bootstrap.min.css
 wwwroot\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
+wwwroot\Images\2001odisseia1.jpg
+wwwroot\Images\cleanarch1.jpg
+wwwroot\Images\cleancode1.jpg
+wwwroot\Images\contoduascidades1.jpg
+wwwroot\Images\ddd1.jpg
+wwwroot\Images\domquixote1.jpg
+wwwroot\Images\livraria.jpg
+wwwroot\Images\livrariaicon.png
+wwwroot\Images\loading.gif
+wwwroot\Images\quartarevolucao1.jpg
+wwwroot\Images\semfoto.jpg
+wwwroot\Images\senhoraneis1.jpg

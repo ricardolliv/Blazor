@@ -8,3 +8,10 @@
 @using Microsoft.JSInterop
 @using Livraria.Blazor
 @using Livraria.Blazor.Components
+
+@using Livraria.Domain.Abstractions
+@using Livraria.Infrastructure.Repositories
+@using Livraria.Domain.Enums
+
+@inject ILivroRepository livroRepository
+@inject NavigationManager navigation

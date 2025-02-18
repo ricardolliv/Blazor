@@ -71,3 +71,4 @@ D:\Estudos\.NET\Blazor\Livraria_Macoratti2\Livraria.Blazor\bin\Debug\net8.0\Livr
 D:\Estudos\.NET\Blazor\Livraria_Macoratti2\Livraria.Blazor\bin\Debug\net8.0\Livraria.Infrastructure.pdb
 D:\Estudos\.NET\Blazor\Livraria_Macoratti2\Livraria.Blazor\obj\Debug\net8.0\Livraria.Blazor.csproj.AssemblyReference.cache
 D:\Estudos\.NET\Blazor\Livraria_Macoratti2\Livraria.Blazor\obj\Debug\net8.0\Livraria.FB5F0676.Up2Date
+D:\Estudos\.NET\Blazor\Livraria_Macoratti2\Livraria.Blazor\obj\Debug\net8.0\scopedcss\Components\Pages\DialogoComponent.razor.rz.scp.css

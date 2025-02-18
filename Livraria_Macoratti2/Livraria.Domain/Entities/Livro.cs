@@ -28,7 +28,7 @@ namespace Livraria.Domain.Entities
         public string? Capa { get; set; }
 
         [Required]
-        [EnumDataType(typeof(Categoria), ErrorMessage = "Selecione a editora")]
+        [EnumDataType(typeof(Editora), ErrorMessage = "Selecione a editora")]
         public Editora Editora { get; set; }
 
         [Required]

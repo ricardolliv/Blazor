@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T0NBMFG1ytV//BmLlgSZ+7IeaBZA6Hm2Owd0fxeTEqg=",
+  "Hash": "qCi57qw+WG1Qjunxl0TpnA0AEx8rbpjRl2+DdaXRDyw=",
   "Source": "Livraria.Blazor",
   "BasePath": "_content/Livraria.Blazor",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "kafazav9er",
-      "Integrity": "7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=",
+      "Fingerprint": "138v3rof6q",
+      "Integrity": "ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "kafazav9er",
-      "Integrity": "7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=",
+      "Fingerprint": "138v3rof6q",
+      "Integrity": "ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css"
@@ -141,6 +141,258 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\2001odisseia1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/2001odisseia1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "clleq72oj3",
+      "Integrity": "0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2001odisseia1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleanarch1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/cleanarch1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfcgaanm7u",
+      "Integrity": "80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cleanarch1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleancode1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/cleancode1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8nob9ecedu",
+      "Integrity": "hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cleancode1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\contoduascidades1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/contoduascidades1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gmpdyp2tv",
+      "Integrity": "HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\contoduascidades1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\ddd1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/ddd1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3bwwp8iswq",
+      "Integrity": "cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ddd1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\domquixote1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/domquixote1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tiitrkrydq",
+      "Integrity": "+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\domquixote1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livraria.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/livraria#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57876kjn6e",
+      "Integrity": "Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\livraria.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livrariaicon.png",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/livrariaicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jc27bhf45l",
+      "Integrity": "o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\livrariaicon.png"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\loading.gif",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/loading#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qxjj9hcky",
+      "Integrity": "ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\loading.gif"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\quartarevolucao1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/quartarevolucao1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96hclo5bgt",
+      "Integrity": "D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\quartarevolucao1.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\semfoto.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/semfoto#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6m9ox9ve8",
+      "Integrity": "lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\semfoto.jpg"
+    },
+    {
+      "Identity": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\senhoraneis1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Images/senhoraneis1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a5wvr3ltab",
+      "Integrity": "gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\senhoraneis1.jpg"
     }
   ],
   "Endpoints": [
@@ -473,6 +725,1080 @@
       ]
     },
     {
+      "Route": "Images/2001odisseia1.clleq72oj3.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\2001odisseia1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clleq72oj3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/2001odisseia1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2001odisseia1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\2001odisseia1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cleanarch1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleanarch1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cleanarch1.nfcgaanm7u.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleanarch1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfcgaanm7u"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/cleanarch1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cleancode1.8nob9ecedu.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleancode1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nob9ecedu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/cleancode1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cleancode1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleancode1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low="
+        }
+      ]
+    },
+    {
+      "Route": "Images/contoduascidades1.4gmpdyp2tv.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\contoduascidades1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gmpdyp2tv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/contoduascidades1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/contoduascidades1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\contoduascidades1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ddd1.3bwwp8iswq.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\ddd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bwwp8iswq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/ddd1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ddd1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\ddd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/domquixote1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\domquixote1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/domquixote1.tiitrkrydq.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\domquixote1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tiitrkrydq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/domquixote1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/livraria.57876kjn6e.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livraria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57876kjn6e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/livraria.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/livraria.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livraria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/livrariaicon.jc27bhf45l.png",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livrariaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jc27bhf45l"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/livrariaicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/livrariaicon.png",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livrariaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/loading.6qxjj9hcky.gif",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\loading.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qxjj9hcky"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/loading.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/loading.gif",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\loading.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/quartarevolucao1.96hclo5bgt.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\quartarevolucao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96hclo5bgt"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/quartarevolucao1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020="
+        }
+      ]
+    },
+    {
+      "Route": "Images/quartarevolucao1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\quartarevolucao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020="
+        }
+      ]
+    },
+    {
+      "Route": "Images/semfoto.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\semfoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/semfoto.u6m9ox9ve8.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\semfoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6m9ox9ve8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/semfoto.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/senhoraneis1.a5wvr3ltab.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\senhoraneis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a5wvr3ltab"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/senhoraneis1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII="
+        }
+      ]
+    },
+    {
+      "Route": "Images/senhoraneis1.jpg",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\senhoraneis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 21:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.138v3rof6q.bundle.scp.css",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 23:59:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "138v3rof6q"
+        },
+        {
+          "Name": "label",
+          "Value": "Livraria.Blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.138v3rof6q.styles.css",
+      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 23:59:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "138v3rof6q"
+        },
+        {
+          "Name": "label",
+          "Value": "Livraria.Blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA="
+        }
+      ]
+    },
+    {
       "Route": "Livraria.Blazor.bundle.scp.css",
       "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
       "Selectors": [],
@@ -483,7 +1809,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5913"
+          "Value": "6560"
         },
         {
           "Name": "Content-Type",
@@ -491,11 +1817,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=\""
+          "Value": "\"ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:20:22 GMT"
+          "Value": "Mon, 17 Feb 2025 23:59:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -505,97 +1831,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI="
-        }
-      ]
-    },
-    {
-      "Route": "Livraria.Blazor.kafazav9er.bundle.scp.css",
-      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5913"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:20:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kafazav9er"
-        },
-        {
-          "Name": "label",
-          "Value": "Livraria.Blazor.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI="
-        }
-      ]
-    },
-    {
-      "Route": "Livraria.Blazor.kafazav9er.styles.css",
-      "AssetFile": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5913"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:20:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kafazav9er"
-        },
-        {
-          "Name": "label",
-          "Value": "Livraria.Blazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI="
+          "Value": "sha256-ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA="
         }
       ]
     },
@@ -610,7 +1846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5913"
+          "Value": "6560"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +1854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI=\""
+          "Value": "\"ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 23:20:22 GMT"
+          "Value": "Mon, 17 Feb 2025 23:59:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -632,7 +1868,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7AYwaU0gMSJFO4mPQF6IuPbWc6f3La5UOvcEHK+IBTI="
+          "Value": "sha256-ralPNFcmBeInCoimeMOIpc8EoamcUZooaiidyPNYnXA="
         }
       ]
     }

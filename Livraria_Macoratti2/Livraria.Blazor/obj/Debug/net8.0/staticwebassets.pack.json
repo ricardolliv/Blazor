@@ -2,7 +2,55 @@
   "Files": [
     {
       "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Livraria.Blazor.kafazav9er.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Livraria.Blazor.138v3rof6q.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\2001odisseia1.jpg",
+      "PackagePath": "staticwebassets\\Images\\2001odisseia1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleanarch1.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleanarch1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\cleancode1.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleancode1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\contoduascidades1.jpg",
+      "PackagePath": "staticwebassets\\Images\\contoduascidades1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\ddd1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ddd1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\domquixote1.jpg",
+      "PackagePath": "staticwebassets\\Images\\domquixote1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livraria.jpg",
+      "PackagePath": "staticwebassets\\Images\\livraria.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\livrariaicon.png",
+      "PackagePath": "staticwebassets\\Images\\livrariaicon.png"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\loading.gif",
+      "PackagePath": "staticwebassets\\Images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\quartarevolucao1.jpg",
+      "PackagePath": "staticwebassets\\Images\\quartarevolucao1.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\semfoto.jpg",
+      "PackagePath": "staticwebassets\\Images\\semfoto.jpg"
+    },
+    {
+      "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\Images\\senhoraneis1.jpg",
+      "PackagePath": "staticwebassets\\Images\\senhoraneis1.jpg"
     },
     {
       "Id": "D:\\Estudos\\.NET\\Blazor\\Livraria_Macoratti2\\Livraria.Blazor\\wwwroot\\app.css",
